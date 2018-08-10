@@ -1,0 +1,56 @@
+{
+    "employees":[
+        {
+            "id": 1,
+            "fullName": "Steve Brownlee",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "fullName": "Jenna Solis",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "fullName": "Meg Ducharme",
+            "departmentId": 1,
+            "computerId": 4
+        }
+    ],
+    "computers":
+    [
+        {
+            "id": 1,
+            "serialNumber": "8432"
+        },
+        {
+            "id": 2,
+            "serialNumber": "83920"
+        },
+        {
+            "id": 3,
+            "serialNumber": "02834"
+        },
+        {
+            "id": 4,
+            "serialNumber": "12389"
+        }
+
+    ],
+    "departments":[
+        {
+            "id": 1,
+            "name": "Accounting"
+        },
+        {
+            "id": 2,
+            "name": "Marketing"
+        },
+        {
+            "id": 3,
+            "name": "HR"
+        }
+    ]
+}
